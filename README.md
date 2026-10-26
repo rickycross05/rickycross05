@@ -6,8 +6,11 @@ Sono uno studente di Scienze e Tecnologie Informatiche con una forte propensione
 
 ### 🚀 Cosa sto facendo attualmente
 *   📱 **Sviluppo Mobile:** Costruendo applicazioni cross-platform utilizzando **React Native (Expo)** e **Flutter (Dart)** per digitalizzare processi complessi e raccogliere dati sul campo.
-*   🤖 **Machine Learning & Dati:** Esplorando modelli predittivi con **Python** (Random Forest, LightGBM) applicati a dataset storici.
-*   ⚙️ **Infrastruttura & Automazione:** Ottimizzando flussi di lavoro tramite script Python, bot Telegram e containerizzazione con **Docker** su server Linux.
+*   🎾 **Predictive ML:** Sviluppo di un modello di Machine Learning (**Random Forest, LightGBM** in Python) per prevedere l'esito dei match di tennis sulla base di dati storici.
+*   🤖 **News Automation:** Creazione di un bot Telegram automatizzato in Python per il filtraggio e l'aggregazione di notizie di settore tramite feed RSS.
+
+### 🛒 Live Business & E-commerce
+*   🐴 **[Secure Horse](https://securehorse.it):** Gestisco un e-commerce B2C attivo basato su WordPress/WooCommerce. Curo l'intera infrastruttura digitale del negozio, dall'ottimizzazione SEO (Rank Math) e miglioramento della Mobile UX, fino all'integrazione dei cataloghi con Google Merchant Center.
 
 ### 🛠️ Tech Stack & Strumenti
 *   **Linguaggi:** Python, Dart, JavaScript/TypeScript, SQL
