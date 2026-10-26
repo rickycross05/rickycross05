@@ -5,16 +5,16 @@
 Sono uno studente di Scienze e Tecnologie Informatiche con una forte propensione per lo sviluppo software applicato a contesti reali e logiche di business. Mi piace costruire soluzioni end-to-end, dalla progettazione della base dati fino all'esperienza utente, mantenendo un approccio pratico e orientato al problem-solving.
 
 ### 🚀 Cosa sto facendo attualmente
-*   📱 **Sviluppo Mobile:** Costruendo applicazioni cross-platform utilizzando **React Native (Expo)** e **Flutter (Dart)** per digitalizzare processi complessi e raccogliere dati sul campo.
+*   📱 **Sviluppo Mobile:** Costruendo applicazioni cross-platform utilizzando **Flutter (Dart)** per digitalizzare processi complessi e raccogliere dati sul campo.
 *   🎾 **Predictive ML:** Sviluppo di un modello di Machine Learning (**Random Forest, LightGBM** in Python) per prevedere l'esito dei match di tennis sulla base di dati storici.
-*   🤖 **News Automation:** Creazione di un bot Telegram automatizzato in Python per il filtraggio e l'aggregazione di notizie di settore tramite feed RSS.
+*   ⚙️ **Infrastruttura & Automazione:** Ottimizzando flussi di lavoro tramite script Python, bot Telegram e containerizzazione con **Docker** su server Linux.
 
 ### 🛒 Live Business & E-commerce
 *   🐴 **[Secure Horse](https://securehorse.it):** Gestisco un e-commerce B2C attivo basato su WordPress/WooCommerce. Curo l'intera infrastruttura digitale del negozio, dall'ottimizzazione SEO (Rank Math) e miglioramento della Mobile UX, fino all'integrazione dei cataloghi con Google Merchant Center.
 
 ### 🛠️ Tech Stack & Strumenti
 *   **Linguaggi:** Python, Dart, JavaScript/TypeScript, SQL
-*   **Framework & Mobile:** React Native, Flutter
+*   **Framework & Mobile:** Flutter
 *   **Data Science:** Pandas, Scikit-learn
 *   **Backend & DB:** Supabase, Relational Databases
 *   **DevOps & Tools:** Git, Docker, Linux, Figma (UI/UX)
@@ -22,6 +22,7 @@ Sono uno studente di Scienze e Tecnologie Informatiche con una forte propensione
 ### 📈 Progetti in Evidenza
 *   **ML Match Predictor:** Un modello di machine learning allenato su 5 anni di dati storici sportivi per la previsione degli esiti dei match.
 *   **BioLab:** Un'applicazione (Flutter/Dart) sviluppata per il tracciamento e la raccolta di dati durante attività accademiche sul campo.
+*   **Telegram News Bot:** Un bot automatizzato in Python per l'aggregazione e il filtraggio in tempo reale di notizie di settore tramite feed RSS.
 
 ### 📫 Contatti
 *   **LinkedIn:** [https://www.linkedin.com/in/riccardo-de-pol-832192366]
